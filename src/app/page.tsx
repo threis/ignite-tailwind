@@ -150,6 +150,12 @@ export default function Home() {
                     type="button"
                     className=" rounded-md p-2 hover:bg-zinc-50"
                   >
+                    <Bold className="size-4 text-zinc-500" strokeWidth={3} />
+                  </button>
+                  <button
+                    type="button"
+                    className=" rounded-md p-2 hover:bg-zinc-50"
+                  >
                     <Italic className="size-4 text-zinc-500" strokeWidth={3} />
                   </button>
                   <button
