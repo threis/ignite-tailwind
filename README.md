@@ -1,6 +1,6 @@
 # Ignite Tailwind
 
-Welcome to Ignite Tailwind, a ReactJS project with TypeScript, Next.Js and Tailwind for creating a page with some components.
+Welcome to Ignite Tailwind, a ReactJS project with TypeScript, Next.Js and Tailwind for creating a responsive page with some components.
 
 ## Features
 
